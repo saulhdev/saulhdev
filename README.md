@@ -15,3 +15,7 @@
 
 <br/>
 I am also working on Neo Launcher at  <a target="_blank" href="https://github.com/NeoApplications/Neo-Launcher">Neo Launcher</a>
+
+
+#Donations
+<a href="https://www.paypal.com/paypalme/saulhdev"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=for-the-badge&logo=paypal" alt="Donate via PayPal"/></a>
