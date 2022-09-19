@@ -99,3 +99,7 @@ I am also working on Neo Launcher at  <a target="_blank" href="https://github.co
 
 ### Donations <br/>
 <a href="https://www.paypal.com/paypalme/saulhdev"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=for-the-badge&logo=paypal" alt="Donate via PayPal"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Strike-saulhdev-red" alt="Donate Strike"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Ethereum-0x91b58c92F5a0333E38904226320FFb8FD8e41167-blue" alt="Donate Ethereum"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Bitcoin-bc1qxur06j2jath458lhccvwgjz4kf9vnhcr526m52-orange" alt="Donate Bitcoin"/></a>
+<a href="#"><img src="https://img.shields.io/badge/BNB-bnb13t6ytwwrmdnpk7y2pmnl0z6zwfwf4rx4lqveqz-blueviolet" alt="Donate BNB"/></a>
