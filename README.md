@@ -100,6 +100,15 @@ I am also working on Neo Launcher at  <a target="_blank" href="https://github.co
 ### Donations <br/>
 <a href="https://www.paypal.com/paypalme/saulhdev"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=flat-square&logo=paypal" alt="Donate via PayPal"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Strike-saulhdev-red?style=flat-square" alt="Donate Strike"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Ethereum-0x91b58c92F5a0333E38904226320FFb8FD8e41167-blue?style=flat-square" alt="Donate Ethereum"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Bitcoin-bc1qxur06j2jath458lhccvwgjz4kf9vnhcr526m52-orange?style=flat-square" alt="Donate Bitcoin"/></a>
-<a href="#"><img src="https://img.shields.io/badge/BNB-bnb13t6ytwwrmdnpk7y2pmnl0z6zwfwf4rx4lqveqz-blueviolet?style=flat-square" alt="Donate BNB"/></a>
+<table>
+<th>
+<td>Bitcoin</td>
+<td>Ethereum</td>
+<td>BNB</td>
+</th>
+<tr>
+<td> <img src="https://github.com/saulhdev/saulhdev/blob/main/bitcoin.jpg" alt="Bitcoin" width="200" /> </td>
+<td> <img src="https://github.com/saulhdev/saulhdev/blob/main/ethereum.jpg" alt="Bitcoin" width="200" /> </td>
+<td> <img src="https://github.com/saulhdev/saulhdev/blob/main/bnb.jpg" alt="Bitcoin" width="200" /> </td>
+</tr>
+</table>
