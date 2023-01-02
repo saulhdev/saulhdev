@@ -16,7 +16,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulhdev&layout=compact&bg_color=0e1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&hide_border=true">
 </a>
 <br/>
-I am also working on Neo Launcher at  <a target="_blank" href="https://github.com/NeoApplications/Neo-Launcher">Neo Launcher</a>
+Developer of <a target="_blank" href="https://github.com/NeoApplications/Neo-Launcher">Neo Launcher</a> and <a target="_blank" href="https://github.com/NeoApplications/Neo-Feed">Neo Feed</a> 
 
 
 ## Skills
