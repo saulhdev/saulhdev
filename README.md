@@ -100,34 +100,3 @@ Developer of <a target="_blank" href="https://github.com/NeoApplications/Neo-Lau
 ### Donations <br/>
 <a href="https://www.paypal.com/paypalme/saulhdev"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=flat-square&logo=paypal" alt="Donate via PayPal"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Strike-saulhdev-red?style=flat-square" alt="Donate Strike"/></a>
-<table><thead>
-<tr>
-<th>Bitcoin</th>
-</tr></thead>
-<tr>
-<td> <img src="https://github.com/saulhdev/saulhdev/blob/main/bitcoin.jpg" alt="Bitcoin" width="200" /> </td>
-</tr>
-</table>
-
-<br/><br/>
-
-<table><thead>
-<tr>
-<th>Ethereum</th>
-</tr></thead>
-<tr>
-<td> <img src="https://github.com/saulhdev/saulhdev/blob/main/ethereum.jpg" alt="Bitcoin" width="200" /> </td>
-</tr>
-</table>
-
-
-<br/><br/>
-
-<table><thead>
-<tr>
-<th>BNB</th>
-</tr></thead>
-<tr>
-<td> <img src="https://github.com/saulhdev/saulhdev/blob/main/bnb.jpg" alt="Bitcoin" width="200" /> </td>
-</tr>
-</table>
