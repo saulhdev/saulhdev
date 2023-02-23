@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Saul Henriquez 
 
-- 🔭 I’m currently working on Android using Java and Kotlin
+- 🔭 I’m currently making Android apps using Java and Kotlin
 - 🌱 I’m currently learning Kotlin
-- ⚡ Fun fact: Traveling around El Salvador
+- ⚡ Fun fact: Traveling 
 
 <a target="_blank" href="https://www.linkedin.com/in/saul-hqz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:henriquez.saul@gmail.com?subject=Hello%20Saul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
