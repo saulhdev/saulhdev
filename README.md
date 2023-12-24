@@ -91,5 +91,6 @@ Developer of <a target="_blank" href="https://github.com/NeoApplications/Neo-Lau
 </p>
 
 ### Donations <br/>
-<a href="https://www.paypal.com/paypalme/saulhdev"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=flat-square&logo=paypal" alt="Donate via PayPal"/></a>
-<a href="https://strike.me/saulhdev"><img src="https://img.shields.io/badge/Strike-saulhdev-red?style=flat-square" alt="Donate Strike"/></a>
+<a href="https://www.paypal.com/paypalme/saulhdev" target="_blank"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=flat-square&logo=paypal" alt="Donate via PayPal"/></a>
+<a href="https://strike.me/saulhdev" target="_blank"><img src="https://img.shields.io/badge/Strike-saulhdev-red?style=flat-square" alt="Donate Strike"/></a>
+ 
