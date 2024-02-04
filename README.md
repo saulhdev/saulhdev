@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: Traveling 
 
-<a target="_blank" href="https://www.linkedin.com/in/saul-hqz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/saulhdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:henriquez.saul@gmail.com?subject=Hello%20Saul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a target="_blank" href="https://es.stackoverflow.com/users/177390/saul-henriquez"><img src="https://img.shields.io/badge/Stackoverflow-%ef6525.svg?&color=orange&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>&nbsp;
 
