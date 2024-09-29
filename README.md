@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Saul Henriquez 
 
 - 🔭 I’m currently making Android apps using Java and Kotlin
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: Traveling 
 
 <a target="_blank" href="https://www.linkedin.com/in/saulhdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
